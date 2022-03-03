@@ -12,3 +12,7 @@ Modificando desde GitHub para verlo en VSCode
 lkasdfjka
 
 modificacion del archivo con la formación dual
+
+modificando en ramaDUAL
+
+Modificando en ramaDUAL2

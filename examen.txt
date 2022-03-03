@@ -1,11 +1,14 @@
 Examen de Entornos de Desarrollo. Modificación línea 1 . 
 hola, he sacado un
 9!
+
+Modificando otra línea para probar
 Estoy añadiendo una nueva funcionalidad
 Añadiendo una nueva fila
-Añadiendo otra fila
 Probando añadir filas en VSCode
 Otra fila más
 
 Modificando desde GitHub para verlo en VSCode
 lkasdfjka
+
+modificacion del archivo con la formación dual
